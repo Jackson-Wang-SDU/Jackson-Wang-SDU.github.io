@@ -14,4 +14,4 @@ My research interest focuses on interdisciplinary researches based on economics 
 
 I am very fortunate to be advised by [Prof. Yugang Tang](https://faculty.sdu.edu.cn/tangyugang/zh_CN/index.htm).
 
-You can find my CV here: [Mingzhong Wang's CV](../assets/Mingzhong Wang CV.pdf).
+You can find my CV here: [Mingzhong Wang's CV](../assets/Mingzhong Wang CV_March.pdf).
